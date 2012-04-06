@@ -1,5 +1,5 @@
 coverage/*
 config/database.yml
 spec/fixtures/*database*
-*.DS_Store
+.DS_Store
 debug.log
